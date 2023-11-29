@@ -20,7 +20,8 @@
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![image_2023-11-29_18-51-17](https://github.com/pmoieni/swaync/assets/62774242/0bdab5b2-8951-4165-bf64-956d36ae48fe)
+![image_2023-11-29_18-52-35](https://github.com/pmoieni/swaync/assets/62774242/c05b07bd-c060-46a9-a120-4128ba0dcd4d)
 
 ## Thanks to
 
