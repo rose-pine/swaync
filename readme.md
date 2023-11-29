@@ -13,9 +13,10 @@
 
 ## Usage
 
-1. install `swaync`
-2. copy the files inside `theme` folder to `~/.config/swaync/`
-3. start `swaync` or run `swaync-client -R && swaync-client -rs` to reload the config
+1. install `swaync`.
+2. clone this repo locally.
+3. copy the files inside the `theme` folder to `$XDG_CONFIG_HOME/swaync/`. the default is `~/.config/swaync`.
+4. start `swaync` or run `swaync-client -R && swaync-client -rs` to reload the config
 
 ## Gallery
 
@@ -24,13 +25,3 @@
 ## Thanks to
 
 - [pmoieni](https://github.com/pmoieni)
-
-## Contributing
-
-> Prefer using [@rose-pine/build](https://github.com/rose-pine/build) when possible
-
-Modify `template.json` using Rosé Pine variables, then build variants:
-
-```sh
-npx @rose-pine/build@latest
-```
