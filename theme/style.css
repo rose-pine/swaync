@@ -25,9 +25,12 @@
   font-size: 1.2rem;
 }
 
+.floating-notifications.background .notification-row {
+  padding: 1rem;
+}
+
 .floating-notifications.background .notification-row .notification-background {
   border-radius: 0.5rem;
-  margin: 0.5rem 1rem;
   background-color: #191724;
   color: #e0def4;
   border: 1px solid #6e6a86;
