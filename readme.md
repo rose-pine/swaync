@@ -1,3 +1,7 @@
+## Changes:
+- Moved all the colors into variables and swapped explicit mentions of those colors for those variables to make switching between themes easier.
+- Added Rose-Pine Dawn light theme.
+
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
     <h2 align="center">Rosé Pine for SwayNotificationCenter</h2>
@@ -17,6 +21,7 @@
 2. clone this repo locally.
 3. copy the files inside the `theme` folder to `$XDG_CONFIG_HOME/swaync/`. the default is `~/.config/swaync`.
 4. start `swaync` or run `swaync-client -R && swaync-client -rs` to reload the config
+5. if you want to change the color scheme to light theme (Dawn), open the `config.css` file, comment the original color scheme out (all the `@define-color` stuff) and uncomment the ones under where it says `Rose-Pine Dawn (light)`
 
 ## Gallery
 
